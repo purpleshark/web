@@ -6,19 +6,20 @@ title: PURPLE SHARK EMBROIDERY
 description: |
   Some Description to be added
 owner: Purple Shark Embroidery # or company name
-first_published: 2016 # if migrating another site, the year of your first publish
+first_published: 2017 # if migrating another site, the year of your first publish
 email: your-email@domain.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.purplesharkembroidery.com" # the base hostname & protocol for your site
+googapi: AIzaSyDvaO0KRLtWwqhZjZLH_nAjsVt1NuX_xMc
 social:
   twitter: https://twitter.com/<username>
-  github: https://github.com/<username>
-  linkedin-square: https://linkedin.com/in/<username>
+  #github: https://github.com/<username>
+  #linkedin-square: https://linkedin.com/in/<username>
   facebook-official: https://facebook.com/<username>
-  google-plus-square: https://plus.google.com/u/0/+<username>
-  #email: /contact/
+  #google-plus-square: https://plus.google.com/u/0/+<username>
+  email: /contact/
   #flickr:
-  #instagram:
+  instagram:
   #youtube-square:
   #spotify:
   #stack-overflow:

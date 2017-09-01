@@ -4,22 +4,23 @@
 # Site settings
 title: PURPLE SHARK EMBROIDERY
 description: |
-  Some Description to be added
+ Our Passion is bring your Logo to Life!<br/>
+ Priding ourselves in fast quality turnaround & Friendly Custom Service!
 owner: Purple Shark Embroidery # or company name
 first_published: 2017 # if migrating another site, the year of your first publish
-email: your-email@domain.com
+email: info@purplesharkembroidery.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.purplesharkembroidery.com" # the base hostname & protocol for your site
 googapi: AIzaSyDvaO0KRLtWwqhZjZLH_nAjsVt1NuX_xMc
 social:
-  twitter: https://twitter.com/<username>
+  #twitter: https://twitter.com/<username>
+  instagram: https://instagram.com/<username>
   #github: https://github.com/<username>
   #linkedin-square: https://linkedin.com/in/<username>
-  facebook-official: https://facebook.com/<username>
+  facebook-official: https://www.facebook.com/purplesharkembroidery/
+  email: info@purplesharkembroidery.com
   #google-plus-square: https://plus.google.com/u/0/+<username>
-  email: /contact/
   #flickr:
-  instagram:
   #youtube-square:
   #spotify:
   #stack-overflow:

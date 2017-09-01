@@ -9,7 +9,7 @@ description: |
 owner: Purple Shark Embroidery # or company name
 first_published: 2017 # if migrating another site, the year of your first publish
 email: info@purplesharkembroidery.com
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/web" # the subpath of your site, e.g. /blog
 url: "https://purpleshark.github.io/web/" # the base hostname & protocol for your site
 googapi: AIzaSyDvaO0KRLtWwqhZjZLH_nAjsVt1NuX_xMc
 social:

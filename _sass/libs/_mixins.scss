@@ -35,3 +35,15 @@
 	padding: ($tb + nth($pad,1)) ($lr + nth($pad,2)) max(0.1em, $tb - _size(element-margin) + nth($pad,3)) ($lr + nth($pad,4)) #{$important};
 
 }
+//forpotfolio
+@mixin transition-all()
+{
+    -webkit-transition: all 0.35s;
+    -moz-transition: all 0.35s;
+    transition: all 0.35s;
+}
+
+@mixin sans-serif-font()
+{
+	font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+}
